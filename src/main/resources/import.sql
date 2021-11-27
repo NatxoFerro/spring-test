@@ -1,0 +1,1 @@
+--insert into person (id, name, created_on, version) values (100, 'Oicangi', TIMESTAMP '2019-02-15 13:00:00+02:00', 1);
